@@ -1,0 +1,10 @@
+3) Demonstrate the process of deploying smart contract on
+Ganache using Truffle suite.
+Ans:-
+create your new directory 
+create a solidity file and write your code
+configure the migraion
+configure the migration
+configure the ganache network
+Deploy your contract :
+Start ganache run the migration command truffle migrate --network devlopment

@@ -1,0 +1,15 @@
+1) Explain briefly the steps involved in initiating a project in Truffle
+and demonstrate the same
+Ans:-open command prompt 
+install truffle globally by running the command
+npm install -g truffle
+Step2:
+create a new directory for your project by running the following command 
+mkdir MetaCoin
+cd MetaCoin
+inside the project directory run the command
+truffle init
+contract:-This directory is where you can write your smart contract
+migration:-this directory is used to define script for deploying contract.
+test:-this directory is writting for test your contract.
+truffle-config.js

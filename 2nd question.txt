@@ -1,0 +1,11 @@
+2) How to Write and Compile a Solidity Smart Contract file using
+Truffle?
+Ans:-open the project directory in code editor
+create a new solidity file
+mycontract.sol
+write a smart contract code 
+contract Mycontract {
+	// contract code
+}
+
+
